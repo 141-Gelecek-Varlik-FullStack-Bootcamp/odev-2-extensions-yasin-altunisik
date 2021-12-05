@@ -1,0 +1,8 @@
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\obj\Debug\HW02_Extension.csproj.AssemblyReference.cache
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\obj\Debug\HW02_Extension.csproj.SuggestedBindingRedirects.cache
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\obj\Debug\HW02_Extension.csproj.CoreCompileInputs.cache
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\bin\Debug\HW02_Extension.exe.config
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\bin\Debug\HW02_Extension.exe
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\bin\Debug\HW02_Extension.pdb
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\obj\Debug\HW02_Extension.exe
+C:\Users\YSN\Desktop\projects\Bootcamp\dotnetcore\HW02_Extension\HW02_Extension\obj\Debug\HW02_Extension.pdb
